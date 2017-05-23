@@ -1,0 +1,8 @@
+echo "Created by: Antonio Santos"
+echo "This program uses the data FILO structure: the Stack." 
+echo "There is many implementations for the Stack, and this program utilizes 
+the simplest type of implementation by using the functions push and pop."
+
+g++ main.cpp
+./a.out
+
