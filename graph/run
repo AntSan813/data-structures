@@ -1,0 +1,8 @@
+echo "Created by: Antonio Santos
+
+This program displays a practical use for the Graph data structure.
+
+"
+
+g++ main.cpp
+./a.out
